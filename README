@@ -1,0 +1,15 @@
+### Description
+
+This code is solution to the problem defined on Codewars 
+
+https://www.codewars.com/kata/5a6b24d4e626c59d5b000066  
+
+### Functionality
+
+What is does is for any given integer number N (in range 2..43), will return an array of integers 1..N arranged in a way, so sum of each 2 consecutive numbers is a square.
+
+### Usage 
+
+Just call function square_sums with any given number
+
+e.g. print(square_sums(45)) 
